@@ -1,6 +1,13 @@
-import React from "react";
+import React, { useState } from "react";
 
 function Nav() {
+
+
+    const handleClick = (item) => {
+        console.log(item);
+        return item;
+    }
+
     return (
         <header className="flex-row px-1 ">
             <h2>
@@ -12,7 +19,7 @@ function Nav() {
                 <ul className="d-flex justify-content-between list-unstyled">
                     <li className="mx-1">
                         <a className="text-light text-decoration-none" href="#about" >
-                            About Me
+                            About
                         </a>
                     </li>
                     <li className="mx-1">

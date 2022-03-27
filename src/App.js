@@ -1,13 +1,13 @@
+import React, { useState } from 'react';
 import './App.css';
-import About from './components/About';
-import Nav from './components/Nav';
 import Footer from './components/Footer';
+import PortfolioContainer from './components/PortfolioContatiner';
 
 function App() {
+
   return (
-    <div className="App App-header">
-      <Nav></Nav>
-      <About></About>
+    <div className='App App-header'>
+      <PortfolioContainer></PortfolioContainer>
       <Footer></Footer>
     </div>
   );
