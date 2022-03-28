@@ -26,7 +26,7 @@ function Nav({ currentPage, handlePageChange }) {
                         </a>
                     </li>
                     <li className="mx-1">
-                        <a className="text-light text-decoration-none" href="#resume" >
+                        <a onClick={() => handlePageChange('Resume')} className={currentPage = 'Resume' ? `nav-link text-light text-decoration-none` : `nav-link text-decoration-none text-warning`} href="#about" >
                             Resume
                         </a>
                     </li>
