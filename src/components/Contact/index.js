@@ -53,7 +53,7 @@ function ContactForm() {
                 </div>
                 <div>
                     <label htmlFor="message">Message:</label>
-                    <input type="text" defaultValue={message} onChange={handleChange} name="name" />
+                    <input type="text" defaultValue={message} onChange={handleChange} name="message" />
                 </div>
 
                 <button type="submit">Submit</button>
@@ -63,6 +63,26 @@ function ContactForm() {
                     </div>
                 )}
             </form>
+            <div className="my-2 flex-row justify-content-center">
+                <ul className="list-unstyled">
+                    <li>
+                        <p>
+                            Phone: 513-300-6401
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            email: Ingramwd01@gmail.com
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            GitHub: https://github.com/ingramwd
+                        </p>
+                    </li>
+                </ul>
+            </div>
+
         </section>
     );
 }
