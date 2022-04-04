@@ -17,7 +17,7 @@ function Portfolio() {
                             <img src={budgetTracker} style={{ width: "35%" }} className="card-img-top" alt="Budget Tracker" />
                             <div className="card-body">
                                 <p className="card-text">Budget Tracker is an easy to use PWA, Which allows a user to track their spending along with their income. </p>
-                                <a href="https://agile-journey-12189.herokuapp.com/" className="btn btn-danger stretched-link">Budget Tracker</a>
+                                <a href="https://agile-journey-12189.herokuapp.com/" className="btn btn-danger ">Budget Tracker</a>
                             </div>
                         </div>
                     </div>
@@ -29,7 +29,7 @@ function Portfolio() {
                             <img src={weatherDashboard} style={{ width: "35%" }} className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <p className="card-text">This is a quick and easy to use Weather Dashboard app for a simple and easy to understand weather report.</p>
-                                <a href="https://ingramwd.github.io/weather-dashboard/" className="btn btn-danger stretched-link">Weather Dashboard</a>
+                                <a href="https://ingramwd.github.io/weather-dashboard/" className="btn btn-danger ">Weather Dashboard</a>
                             </div>
                         </div>
                     </div>
@@ -41,7 +41,7 @@ function Portfolio() {
                             <img src={tv4u} style={{ width: "35%" }} className="card-img-top" alt="TV4U" />
                             <div className="card-body">
                                 <p className="card-text">TV4U is a blog website where users can go to brag or let off steam about their TVs!</p>
-                                <a href="https://obscure-tv.herokuapp.com/" className="btn btn-danger stretched-link">TV4U</a>
+                                <a href="https://obscure-tv.herokuapp.com/" className="btn btn-danger ">TV4U</a>
                             </div>
                         </div>
                     </div>
@@ -53,7 +53,7 @@ function Portfolio() {
                             <img src={ohSnap} style={{ width: "35%" }} className="card-img-top" alt="Oh Snap" />
                             <div className="card-body">
                                 <p className="card-text">Oh Snap is another React based Website, which fits multiple different pages into one single page application!</p>
-                                <a href="https://ingramwd.github.io/photo-port/" className="btn btn-danger stretched-link">Oh Snap!</a>
+                                <a href="https://ingramwd.github.io/photo-port/" className="btn btn-danger ">Oh Snap!</a>
                             </div>
                         </div>
                     </div>
@@ -65,7 +65,7 @@ function Portfolio() {
                             <img src={taskinator} style={{ width: "35%" }} className="card-img-top" alt="TV4U" />
                             <div className="card-body">
                                 <p className="card-text">Taskinator is an online planner to for a busy individual to keep track of their day to day.</p>
-                                <a href="https://ingramwd.github.io/Taskinator/" className="btn btn-danger stretched-link">Taskinator</a>
+                                <a href="https://ingramwd.github.io/Taskinator/" className="btn btn-danger ">Taskinator</a>
                             </div>
                         </div>
                     </div>
@@ -77,7 +77,7 @@ function Portfolio() {
                             <img src={foodFestival} style={{ width: "35%" }} className="card-img-top" alt="Food festival" />
                             <div className="card-body">
                                 <p className="card-text">Food Festival is a website that foodies can use to find upcoming food events!</p>
-                                <a href="https://ingramwd.github.io/food-festival-/" className="btn btn-danger stretched-link">Food Festival</a>
+                                <a href="https://ingramwd.github.io/food-festival-/" className="btn btn-danger ">Food Festival</a>
                             </div>
                         </div>
                     </div>
