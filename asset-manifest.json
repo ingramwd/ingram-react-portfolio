@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ingram-react-portfolio/static/css/main.1c9af67b.css",
-    "main.js": "/ingram-react-portfolio/static/js/main.38a1d24b.js",
+    "main.js": "/ingram-react-portfolio/static/js/main.bed38d4e.js",
     "static/js/787.55f688da.chunk.js": "/ingram-react-portfolio/static/js/787.55f688da.chunk.js",
     "static/media/food-festival.jpg": "/ingram-react-portfolio/static/media/food-festival.e0f6cf8ea2a57cd96aa6.jpg",
     "static/media/selfImage.jpeg": "/ingram-react-portfolio/static/media/selfImage.62baad1cceff337e4f5c.jpeg",
@@ -10,13 +10,14 @@
     "static/media/TV4U.jpg": "/ingram-react-portfolio/static/media/TV4U.496684e84663280edb23.jpg",
     "static/media/taskinator.jpg": "/ingram-react-portfolio/static/media/taskinator.8270931f7088a272bf4d.jpg",
     "static/media/resumeWdi.pdf": "/ingram-react-portfolio/static/media/resumeWdi.eedeb93604af2840374d.pdf",
+    "static/media/sweeney-seafood.jpg": "/ingram-react-portfolio/static/media/sweeney-seafood.339dc0789c46650d5517.jpg",
     "index.html": "/ingram-react-portfolio/index.html",
     "main.1c9af67b.css.map": "/ingram-react-portfolio/static/css/main.1c9af67b.css.map",
-    "main.38a1d24b.js.map": "/ingram-react-portfolio/static/js/main.38a1d24b.js.map",
+    "main.bed38d4e.js.map": "/ingram-react-portfolio/static/js/main.bed38d4e.js.map",
     "787.55f688da.chunk.js.map": "/ingram-react-portfolio/static/js/787.55f688da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c9af67b.css",
-    "static/js/main.38a1d24b.js"
+    "static/js/main.bed38d4e.js"
   ]
 }
